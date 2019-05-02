@@ -1,0 +1,39 @@
+{
+      "Status":"Success",
+      "Message":"success to load data",
+      "Data":[
+        {
+          "DoctorName":"Dr. Budi",
+          "Specialist":"Umum",
+          "Hospitals":[
+            {
+              "Name":"Rumah Sakit A","Address":"Jalan Thamrin 1","Schedule":"Rabu, 12.00 - 22.00",
+            }
+          ]
+        },
+        {
+          "DoctorName":"Drs. Mira",
+          "Specialist":"Kandungan",
+          "Hospitals":[
+            {
+              "Name":"Rumah Sakit C","Address":"Jalan Jend Sudirman 1","Schedule":"Jumat, 18.00 - 22.00",
+            },
+            {
+              "Name":"Rumah Sakit D","Address":"Jalan Jend Sudirman 2","Schedule":"Sabtu, 08.00 - 12.00",
+            },
+            {
+              "Name":"Rumah Sakit E","Address":"Jalan Jend Sudirman 3","Schedule":"Rabu, 13.00 - 22.00",
+            }
+          ]
+        },
+        {
+          "DoctorName":"Drs. Rani",
+          "Specialist":"Gigi",
+          "Hospitals":[
+            {
+              "Name":"Rumah Sakit C","Address":"Jalan Jend Sudirman 1","Schedule":"Selasa, 18.00 - 22.00",
+            }
+          ]
+        }
+      ]
+}
