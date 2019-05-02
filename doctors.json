@@ -3,7 +3,7 @@
 	"Message": "success to load data",
 	"Data": [{
 			"DoctorName": "Dr. Budi",
-			"Specialist": "Umum",
+			"Specialist": "Spesialis Umum",
 			"Hospitals": [{
 				"Name": "Rumah Sakit A",
 				"Address": "Jalan Thamrin 1",
@@ -12,7 +12,7 @@
 		},
 		{
 			"DoctorName": "Drs. Mira",
-			"Specialist": "Kandungan",
+			"Specialist": "Spesialis Kandungan",
 			"Hospitals": [{
 					"Name": "Rumah Sakit C",
 					"Address": "Jalan Jend Sudirman 1",
@@ -32,7 +32,7 @@
 		},
 		{
 			"DoctorName": "Drs. Rani",
-			"Specialist": "Gigi",
+			"Specialist": "Spesialis Gigi",
 			"Hospitals": [{
 				"Name": "Rumah Sakit C",
 				"Address": "Jalan Jend Sudirman 1",
