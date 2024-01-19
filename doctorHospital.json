@@ -76,7 +76,7 @@
           "name": "MindCare Hospital",
           "location": "1111 Thought Lane, Psychotown"
         },
-         {
+        {
           "id": 6,
           "name": "Digestive Health Center",
           "location": "808 Digest Lane, Gastrotown"
@@ -155,7 +155,7 @@
           "id": 15,
           "name": "Healthy Bladder Clinic",
           "location": "1515 Kidney Street, Bladderburg"
-        },
+        }
       ],
       "experience": "14 years",
       "contact": "+1 (555) 444-5555",
