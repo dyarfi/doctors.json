@@ -66,6 +66,11 @@
           "name": "MindCare Hospital",
           "location": "1111 Thought Lane, Psychotown"
         },
+         {
+          "id": 6,
+          "name": "Digestive Health Center",
+          "location": "808 Digest Lane, Gastrotown"
+        },
         {
           "id": 12,
           "name": "Serene Mental Wellness",
@@ -90,6 +95,11 @@
           "id": 14,
           "name": "Urology Wellness Center",
           "location": "1414 Uro Lane, Urotown"
+        },
+        {
+          "id": 5,
+          "name": "Healthy Gut Clinic",
+          "location": "909 Stomach Street, Nutritown"
         },
         {
           "id": 15,
