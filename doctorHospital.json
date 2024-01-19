@@ -50,6 +50,11 @@
           "id": 10,
           "name": "GastroCare Hospital",
           "location": "1010 Belly Road, Digestville"
+        },
+        {
+          "id": 9,
+          "name": "Clear Sight Hospital",
+          "location": "707 View Road, Clearville"
         }
       ],
       "experience": "19 years",
