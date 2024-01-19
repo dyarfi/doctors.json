@@ -1,255 +1,140 @@
 {
   "status": "success",
   "data": [
-    {
-      "id": 1,
-      "name": "Dr. John Smith",
-      "specialty": "Cardiologist",
-      "hospitals": [
-        {
-          "id": 1,
-          "name": "City General Hospital",
-          "location": "123 Main Street, Cityville"
-        },
-        {
-          "id": 2,
-          "name": "Children's Medical Center",
-          "location": "456 Oak Avenue, Townsville"
-        },
-        {
-          "id": 3,
-          "name": "Sunrise Health Center",
-          "location": "789 Sunrise Road, Healthtown"
-        }
-      ],
-      "experience": "15 years",
-      "contact": "+1 (555) 123-4567",
-      "email": "john.smith@example.com"
-    },
-    {
-      "id": 2,
-      "name": "Dr. Emily Johnson",
-      "specialty": "Pediatrician",
-      "hospitals": [
-        {
-          "id": 1,
-          "name": "City General Hospital",
-          "location": "123 Main Street, Cityville"
-        },
-        {
-          "id": 2,
-          "name": "Children's Medical Center",
-          "location": "456 Oak Avenue, Townsville"
-        },
-        {
-          "id": 4,
-          "name": "Healthy Kids Clinic",
-          "location": "101 Child Lane, Kidstown"
-        }
-      ],
-      "experience": "12 years",
-      "contact": "+1 (555) 987-6543",
-      "email": "emily.johnson@example.com"
-    },
-    {
-      "id": 3,
-      "name": "Dr. Michael Davis",
-      "specialty": "Orthopedic Surgeon",
-      "hospitals": [
-        {
-          "id": 3,
-          "name": "Sunrise Health Center",
-          "location": "789 Sunrise Road, Healthtown"
-        },
-        {
-          "id": 4,
-          "name": "Healthy Kids Clinic",
-          "location": "101 Child Lane, Kidstown"
-        },
-        {
-          "id": 5,
-          "name": "Joint Health Center",
-          "location": "202 Joint Lane, Jointville"
-        }
-      ],
-      "experience": "20 years",
-      "contact": "+1 (555) 222-3333",
-      "email": "michael.davis@example.com"
-    },
-    {
-      "id": 4,
-      "name": "Dr. Sarah Wilson",
-      "specialty": "Dermatologist",
-      "hospitals": [
-        {
-          "id": 4,
-          "name": "Healthy Kids Clinic",
-          "location": "101 Child Lane, Kidstown"
-        },
-        {
-          "id": 5,
-          "name": "Joint Health Center",
-          "location": "202 Joint Lane, Jointville"
-        },
-        {
-          "id": 6,
-          "name": "Glowing Skin Center",
-          "location": "303 Radiance Road, Glowsburg"
-        }
-      ],
-      "experience": "18 years",
-      "contact": "+1 (555) 777-8888",
-      "email": "sarah.wilson@example.com"
-    },
-    {
-      "id": 5,
-      "name": "Dr. Robert Miller",
-      "specialty": "Neurologist",
-      "hospitals": [
-        {
-          "id": 5,
-          "name": "Joint Health Center",
-          "location": "202 Joint Lane, Jointville"
-        },
-        {
-          "id": 6,
-          "name": "Glowing Skin Center",
-          "location": "303 Radiance Road, Glowsburg"
-        },
-        {
-          "id": 7,
-          "name": "Cerebral Wellness Clinic",
-          "location": "404 Brain Road, Cerebratown"
-        }
-      ],
-      "experience": "22 years",
-      "contact": "+1 (555) 333-4444",
-      "email": "robert.miller@example.com"
-    },
-    {
-      "id": 6,
-      "name": "Dr. Amanda Brown",
-      "specialty": "Ophthalmologist",
-      "hospitals": [
-        {
-          "id": 7,
-          "name": "Cerebral Wellness Clinic",
-          "location": "404 Brain Road, Cerebratown"
-        },
-        {
-          "id": 8,
-          "name": "Eye Wellness Clinic",
-          "location": "606 Vision Street, Visiontown"
-        },
-        {
-          "id": 9,
-          "name": "Clear Sight Hospital",
-          "location": "707 View Road, Clearville"
-        }
-      ],
-      "experience": "16 years",
-      "contact": "+1 (555) 555-6666",
-      "email": "amanda.brown@example.com"
-    },
-    {
-      "id": 7,
-      "name": "Dr. Christopher White",
-      "specialty": "Gastroenterologist",
-      "hospitals": [
-        {
-          "id": 8,
-          "name": "Eye Wellness Clinic",
-          "location": "606 Vision Street, Visiontown"
-        },
-        {
-          "id": 9,
-          "name": "Clear Sight Hospital",
-          "location": "707 View Road, Clearville"
-        },
-        {
-          "id": 10,
-          "name": "GastroCare Hospital",
-          "location": "1010 Belly Road, Digestville"
-        }
-      ],
-      "experience": "19 years",
-      "contact": "+1 (555) 666-7777",
-      "email": "christopher.white@example.com"
-    },
-    {
-      "id": 8,
-      "name": "Dr. Olivia Taylor",
-      "specialty": "Psychiatrist",
-      "hospitals": [
-        {
-          "id": 11,
-          "name": "MindCare Hospital",
-          "location": "1111 Thought Lane, Psychotown"
-        },
-        {
-          "id": 12,
-          "name": "Serene Mental Wellness",
-          "location": "1212 Calm Street, Mindville"
-        },
-        {
-          "id": 13,
-          "name": "Tranquil Minds Clinic",
-          "location": "1313 Peace Road, Psychocity"
-        }
-      ],
-      "experience": "17 years",
-      "contact": "+1 (555) 999-0000",
-      "email": "olivia.taylor@example.com"
-    },
-    {
-      "id": 9,
-      "name": "Dr. Samuel Anderson",
-      "specialty": "Urologist",
-      "hospitals": [
-        {
-          "id": 14,
-          "name": "Urology Wellness Center",
-          "location": "1414 Uro Lane, Urotown"
-        },
-        {
-          "id": 15,
-          "name": "Healthy Bladder Clinic",
-          "location": "1515 Kidney Street, Bladderburg"
-        },
-        {
-          "id": 16,
-          "name": "Renal Health Hospital",
-          "location": "1616 Nephron Road, Renaltown"
-        }
-      ],
-      "experience": "21 years",
-      "contact": "+1 (555) 111-2222",
-      "email": "samuel.anderson@example.com"
-    },
-    {
-      "id": 10,
-      "name": "Dr. Grace Martinez",
-      "specialty": "Rheumatologist",
-      "hospitals": [
-        {
-          "id": 17,
-          "name": "JointCare Clinic",
-          "location": "1717 Joint Lane, Arthrotown"
-        },
-        {
-          "id": 18,
-          "name": "Arthritis Health Center",
-          "location": "1818 Arthritis Road, Rheumatoville"
-        },
-        {
-          "id": 19,
-          "name": "Flexibility Wellness Hospital",
-          "location": "1919 Ligament Street, Flexburg"
-        }
-      ],
-      "experience": "14 years",
-      "contact": "+1 (555) 444-5555",
-      "email": "grace.martinez@example.com"
-    }
+      {
+        id: 6,
+        name: 'Dr. Amanda Brown',
+        specialty: 'Ophthalmologist',
+        hospitals: [
+          {
+            id: 7,
+            name: 'Vision Health Center',
+            location: '505 Sight Lane, Visionville',
+          },
+          {
+            id: 8,
+            name: 'Eye Wellness Clinic',
+            location: '606 Vision Street, Visiontown',
+          },
+          {
+            id: 9,
+            name: 'Clear Sight Hospital',
+            location: '707 View Road, Clearville',
+          },
+          {
+            id: 19,
+            name: 'Flexibility Wellness Hospital',
+            location: '1919 Ligament Street, Flexburg',
+          },
+        ],
+        experience: '16 years',
+        contact: '+1 (555) 555-6666',
+        email: 'amanda.brown@example.com',
+      },
+      {
+        id: 7,
+        name: 'Dr. Christopher White',
+        specialty: 'Gastroenterologist',
+        hospitals: [
+          {
+            id: 6,
+            name: 'Digestive Health Center',
+            location: '808 Digest Lane, Gastrotown',
+          },
+          {
+            id: 5,
+            name: 'Healthy Gut Clinic',
+            location: '909 Stomach Street, Nutritown',
+          },
+          {
+            id: 10,
+            name: 'GastroCare Hospital',
+            location: '1010 Belly Road, Digestville',
+          },
+        ],
+        experience: '19 years',
+        contact: '+1 (555) 666-7777',
+        email: 'christopher.white@example.com',
+      },
+      {
+        id: 8,
+        name: 'Dr. Olivia Taylor',
+        specialty: 'Psychiatrist',
+        hospitals: [
+          {
+            id: 11,
+            name: 'MindCare Hospital',
+            location: '1111 Thought Lane, Psychotown',
+          },
+          {
+            id: 12,
+            name: 'Serene Mental Wellness',
+            location: '1212 Calm Street, Mindville',
+          },
+          {
+            id: 13,
+            name: 'Tranquil Minds Clinic',
+            location: '1313 Peace Road, Psychocity',
+          },
+        ],
+        experience: '17 years',
+        contact: '+1 (555) 999-0000',
+        email: 'olivia.taylor@example.com',
+      },
+      {
+        id: 9,
+        name: 'Dr. Samuel Anderson',
+        specialty: 'Urologist',
+        hospitals: [
+          {
+            id: 14,
+            name: 'Urology Wellness Center',
+            location: '1414 Uro Lane, Urotown',
+          },
+          {
+            id: 15,
+            name: 'Healthy Bladder Clinic',
+            location: '1515 Kidney Street, Bladderburg',
+          },
+          {
+            id: 16,
+            name: 'Renal Health Hospital',
+            location: '1616 Nephron Road, Renaltown',
+          },
+        ],
+        experience: '21 years',
+        contact: '+1 (555) 111-2222',
+        email: 'samuel.anderson@example.com',
+      },
+      {
+        id: 10,
+        name: 'Dr. Grace Martinez',
+        specialty: 'Rheumatologist',
+        hospitals: [
+          {
+            id: 17,
+            name: 'JointCare Clinic',
+            location: '1717 Joint Lane, Arthrotown',
+          },
+          {
+            id: 18,
+            name: 'Arthritis Health Center',
+            location: '1818 Arthritis Road, Rheumatoville',
+          },
+          {
+            id: 19,
+            name: 'Flexibility Wellness Hospital',
+            location: '1919 Ligament Street, Flexburg',
+          },
+          {
+            id: 7,
+            name: 'Vision Health Center',
+            location: '505 Sight Lane, Visionville',
+          },
+        ],
+        experience: '14 years',
+        contact: '+1 (555) 444-5555',
+        email: 'grace.martinez@example.com',
+      }
   ]
 }
