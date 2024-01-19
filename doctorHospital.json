@@ -147,6 +147,11 @@
           "location": "1919 Ligament Street, Flexburg"
         },
         {
+          "id": 12,
+          "name": "Serene Mental Wellness",
+          "location": "1212 Calm Street, Mindville"
+        },
+        {
           "id": 7,
           "name": "Vision Health Center",
           "location": "505 Sight Lane, Visionville"
