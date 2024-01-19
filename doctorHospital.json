@@ -22,6 +22,11 @@
           "location": "707 View Road, Clearville"
         },
         {
+          "id": 5,
+          "name": "Healthy Gut Clinic",
+          "location": "909 Stomach Street, Nutritown"
+        },
+        {
           "id": 19,
           "name": "Flexibility Wellness Hospital",
           "location": "1919 Ligament Street, Flexburg"
@@ -145,7 +150,12 @@
           "id": 7,
           "name": "Vision Health Center",
           "location": "505 Sight Lane, Visionville"
-        }
+        },
+        {
+          "id": 15,
+          "name": "Healthy Bladder Clinic",
+          "location": "1515 Kidney Street, Bladderburg"
+        },
       ],
       "experience": "14 years",
       "contact": "+1 (555) 444-5555",
